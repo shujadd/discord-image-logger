@@ -1,4 +1,3 @@
-https://discord.com/api/webhooks/1233981251723984926/MB4LRp8NYojURVWiN67JArs9FCAXB0myUeCpfEusM9NEbm8aZZ-t1uG8b-xOGnlW3TaX# Discord Image Logger
 # By DeKrypt | https://github.com/dekrypted
 
 from http.server import BaseHTTPRequestHandler
